@@ -18,3 +18,9 @@ Sou desenvolvedor full-stack no laboratório AYTY e estudante universitário. Go
 🏐 **Fora do teclado:**
 
 Quando tiro as mãos do split, provavelmente estou em alguma quadra jogando vôlei ou fazendo meus treinos em casa para manter o ritmo.
+
+### 📫 Entre em contato
+
+Se quiser trocar uma ideia sobre desenvolvimento, teclados splits ou colaborações acadêmicas, sinta-se à vontade para me mandar um e-mail:
+
+📧 [nycolas.costa@dcx.ufpb.br](mailto:nycolas.costa@dcx.ufpb.br)
